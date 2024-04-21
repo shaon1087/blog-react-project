@@ -14,9 +14,9 @@ function App() {
   return (
     <>
       <Header></Header>
-      <main className='md:flex max-w-7xl mx-auto m-8'>
+      <main className='md:flex max-w-7xl mx-auto m-8 gap-8'>
         <Blogs handleBookmarks={handleBookmarks}></Blogs>
-        <Bookmarks></Bookmarks>
+        <Bookmarks bookmarks={bookmarks}></Bookmarks>
       </main>
     </>
   );
