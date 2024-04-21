@@ -1,0 +1,52 @@
+[
+  {
+    "ID": "1",
+    "Title": "The Secret of the Lost Island",
+    "Cover": "https://i.ibb.co/4dHkzqK/160629013-10304390.jpg",
+    "Author": "Samantha Johnson",
+    "AuthorImg": "https://i.ibb.co/P48Y3nx/profile.png",
+    "PostedDate": "April 21, 2024",
+    "ReadingTime": 8,
+    "Hashtags": ["#fiction", "#adventure", "#mystery"]
+  },
+  {
+    "ID": "2",
+    "Title": "Beyond the Stars",
+    "Cover": "https://i.ibb.co/Wp6qDJT/160629031-10304038.jpg",
+    "Author": "Michael Roberts",
+    "AuthorImg": "https://i.ibb.co/P48Y3nx/profile.png",
+    "PostedDate": "April 20, 2024",
+    "ReadingTime": 12,
+    "Hashtags": ["#sciencefiction", "#space", "#technology"]
+  },
+  {
+    "ID": "3",
+    "Title": "Love in the Rain",
+    "Cover": "https://i.ibb.co/4dHkzqK/160629013-10304390.jpg",
+    "Author": "Emily Thompson",
+    "AuthorImg": "https://i.ibb.co/P48Y3nx/profile.png",
+    "PostedDate": "April 19, 2024",
+    "ReadingTime": 6,
+    "Hashtags": ["#romance", "#drama", "#love"]
+  },
+  {
+    "ID": "4",
+    "Title": "The Midnight Killer",
+    "Cover": "https://i.ibb.co/Wp6qDJT/160629031-10304038.jpg",
+    "Author": "Daniel Lee",
+    "AuthorImg": "https://i.ibb.co/P48Y3nx/profile.png",
+    "PostedDate": "April 18, 2024",
+    "ReadingTime": 10,
+    "Hashtags": ["#thriller", "#suspense", "#crime"]
+  },
+  {
+    "ID": "5",
+    "Title": "Realm of Magic",
+    "Cover": "https://i.ibb.co/4dHkzqK/160629013-10304390.jpg",
+    "Author": "Sarah Smith",
+    "AuthorImg": "https://i.ibb.co/P48Y3nx/profile.png",
+    "PostedDate": "April 17, 2024",
+    "ReadingTime": 7,
+    "Hashtags": ["#fantasy", "#magic", "#adventure"]
+  }
+]
